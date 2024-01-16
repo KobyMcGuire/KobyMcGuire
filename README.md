@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KobyMcGuire
-- 👀 I’m interested in learning more about programming!
-- 🌱 I’m currently learning JavaScript!
+- 👀 I’m interested in learning more front-end frameworks!
+- 🌱 I’m currently learning Vue  / Vuetify!
 - 💞️ I’m looking to collaborate on nothing right now :/
 - 📫 How to reach me: @ my email: mcguirej2019@gmail.com
 
